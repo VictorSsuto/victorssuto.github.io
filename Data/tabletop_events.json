@@ -1,0 +1,100 @@
+[
+
+{
+    "Id": "1",
+
+    "Game": "Dungeons and Dragon",
+
+    "Time": "10h - 13h",
+
+    "date": "2022-10-18",
+
+    "Places": "5",
+
+    "Location": "Chez Geeks",
+
+    "Email": "DND@gmail.com",
+
+    "ImageURL": "https://whatnerd.com/wp-content/uploads/2019/03/find-local-dungeons-dragons-group-featured-500x250.jpg",
+
+    "Level":"Advanced"
+},
+{
+    "Id": "2",
+
+    "Game": "Catan",
+    
+    "date": "2022-10-20",
+
+
+    "Time": "13h - 15h",
+
+    "Places": "4",
+
+    "Location": "Comics Menard",
+
+    "Email": "Catan@gmail.com",
+
+    "ImageURL": "https://www.catan.com/sites/default/files/2022-05/CATAN-Humankind%20Banner.jpg",
+
+    "Level":"Beginer"
+},
+{
+    "Id": "3",
+
+    "Game": "Pokemon",
+
+    "date": "2022-10-22",
+
+    "Time": "10h - 13h",
+
+    "Places": "10",
+
+    "Location": "Imaginaire CF St-Bruno",
+
+    "Email": "Pokemon@gmail.com",
+
+    "ImageURL": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2017/02/03/aaf55b8f-db4e-4e69-9664-f9b521842709/pokemon-trading-card-game-sun-and-moon",
+
+    "Level":"Intermediate"
+},
+{
+    "Id": "4",
+
+    "Game": "Yu-Gi-Oh",
+
+    "date": "2022-10-25",
+
+    "Time": "20h - 24h",
+
+    "Places": "6",
+
+    "Location": "Card Brawlers",
+
+    "Email": "YuGiOh@gmail.com",
+
+    "ImageURL": "https://pbs.twimg.com/ext_tw_video_thumb/1029197235345489920/pu/img/EKRS5RdUTZKnx08L.jpg",
+
+    "Level":"Advanced"
+},
+{
+    "Id": "5",
+
+    "Game": "Bring your own!",
+
+    "date": "2022-10-28",    
+
+    "Time": "18h - 22h",
+
+    "Places": "15",
+
+    "Location": "Champlain College table top club",
+
+    "Email": "TableTopClub@gmail.com",
+
+    "ImageURL": "https://cdn.thewirecutter.com/wp-content/media/2020/10/smallworldboardgames-2048px-33.jpg"
+
+}
+
+
+]
