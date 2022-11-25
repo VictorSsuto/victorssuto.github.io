@@ -1,98 +1,98 @@
 [
 
 {
-    "Id": "1",
+    "id": "1",
 
-    "Game": "Dungeons and Dragon",
+    "game": "Dungeons and Dragon",
 
-    "Time": "10h - 13h",
+    "time": "10h - 13h",
 
     "date": "2022-10-18",
 
-    "Places": "5",
+    "places": "5",
 
-    "Location": "Chez Geeks",
+    "location": "Chez Geeks",
 
-    "Email": "DND@gmail.com",
+    "email": "DND@gmail.com",
 
-    "ImageURL": "https://whatnerd.com/wp-content/uploads/2019/03/find-local-dungeons-dragons-group-featured-500x250.jpg",
+    "imageData": "https://whatnerd.com/wp-content/uploads/2019/03/find-local-dungeons-dragons-group-featured-500x250.jpg",
 
-    "Level":"Advanced"
+    "Llevel":"Advanced"
 },
 {
-    "Id": "2",
+    "id": "2",
 
-    "Game": "Catan",
+    "game": "Catan",
     
     "date": "2022-10-20",
 
 
-    "Time": "13h - 15h",
+    "time": "13h - 15h",
 
-    "Places": "4",
+    "places": "4",
 
-    "Location": "Comics Menard",
+    "location": "Comics Menard",
 
-    "Email": "Catan@gmail.com",
+    "email": "Catan@gmail.com",
 
-    "ImageURL": "https://www.catan.com/sites/default/files/2022-05/CATAN-Humankind%20Banner.jpg",
+    "imageData": "https://www.catan.com/sites/default/files/2022-05/CATAN-Humankind%20Banner.jpg",
 
-    "Level":"Beginer"
+    "level":"Beginer"
 },
 {
-    "Id": "3",
+    "id": "3",
 
-    "Game": "Pokemon",
+    "game": "Pokemon",
 
     "date": "2022-10-22",
 
-    "Time": "10h - 13h",
+    "time": "10h - 13h",
 
-    "Places": "10",
+    "places": "10",
 
-    "Location": "Imaginaire CF St-Bruno",
+    "location": "Imaginaire CF St-Bruno",
 
-    "Email": "Pokemon@gmail.com",
+    "email": "Pokemon@gmail.com",
 
-    "ImageURL": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2017/02/03/aaf55b8f-db4e-4e69-9664-f9b521842709/pokemon-trading-card-game-sun-and-moon",
+    "imageData": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2017/02/03/aaf55b8f-db4e-4e69-9664-f9b521842709/pokemon-trading-card-game-sun-and-moon",
 
     "Level":"Intermediate"
 },
 {
-    "Id": "4",
+    "id": "4",
 
-    "Game": "Yu-Gi-Oh",
+    "game": "Yu-Gi-Oh",
 
     "date": "2022-10-25",
 
-    "Time": "20h - 24h",
+    "time": "20h - 24h",
 
-    "Places": "6",
+    "places": "6",
 
-    "Location": "Card Brawlers",
+    "location": "Card Brawlers",
 
-    "Email": "YuGiOh@gmail.com",
+    "email": "YuGiOh@gmail.com",
 
-    "ImageURL": "https://pbs.twimg.com/ext_tw_video_thumb/1029197235345489920/pu/img/EKRS5RdUTZKnx08L.jpg",
+    "imageData": "https://pbs.twimg.com/ext_tw_video_thumb/1029197235345489920/pu/img/EKRS5RdUTZKnx08L.jpg",
 
-    "Level":"Advanced"
+    "level":"Advanced"
 },
 {
-    "Id": "5",
+    "id": "5",
 
-    "Game": "Bring your own!",
+    "game": "Bring your own!",
 
     "date": "2022-10-28",    
 
-    "Time": "18h - 22h",
+    "time": "18h - 22h",
 
-    "Places": "15",
+    "places": "15",
 
-    "Location": "Champlain College table top club",
+    "location": "Champlain College table top club",
 
-    "Email": "TableTopClub@gmail.com",
+    "email": "TableTopClub@gmail.com",
 
-    "ImageURL": "https://cdn.thewirecutter.com/wp-content/media/2020/10/smallworldboardgames-2048px-33.jpg"
+    "imageData": "https://cdn.thewirecutter.com/wp-content/media/2020/10/smallworldboardgames-2048px-33.jpg"
 
 }
 

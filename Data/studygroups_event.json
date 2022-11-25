@@ -2,94 +2,94 @@
 
     "id": "1",
 
-    "Subject": "Microservices",
+    "subject": "Microservices",
 
-    "Tutor": "Shariful Islam",
+    "tutor": "Shariful Islam",
 
-    "Time": "20h",
+    "time": "20h",
 
-    "Location": "Webster Concordia Library third floor",
+    "location": "Webster Concordia Library third floor",
 
-    "Email":"Shariful@gmail.com",
+    "email":"Shariful@gmail.com",
 
-    "Places": "5",
+    "places": "5",
 
-    "ImageURL": "https://miro.medium.com/max/1400/1*vkHiocXhkClGCDzkNBTeQQ.png"
+    "imageData": "https://miro.medium.com/max/1400/1*vkHiocXhkClGCDzkNBTeQQ.png"
 },
 {
 
     "id": "2",
 
-    "Subject": "C# .Net",
+    "subject": "C# .Net",
 
-    "Tutor": "Alex Ssuto",
+    "tutor": "Alex Ssuto",
 
-    "Time": "20h",
+    "time": "20h",
 
-    "Location": "McLennan Library second floor",
+    "location": "McLennan Library second floor",
 
-    "Email":"@gmail.com",
+    "email":"@gmail.com",
 
-    "Places": "5",
+    "places": "5",
 
-    "ImageURL": "https://code.visualstudio.com/assets/docs/languages/csharp/c_sharp_hero.png"
+    "imageData": "https://code.visualstudio.com/assets/docs/languages/csharp/c_sharp_hero.png"
 
 },
 {
 
     "id": "3",
 
-    "Subject": "SQL",
+    "subject": "SQL",
 
-    "Tutor": "Yan Burton",
+    "tutor": "Yan Burton",
 
-    "Time": "21h",
+    "time": "21h",
 
-    "Location": "Georgette-Lepage Library of Brossard",
+    "location": "Georgette-Lepage Library of Brossard",
 
-    "Email":"Yan@gmail.com",
+    "email":"Yan@gmail.com",
 
-    "Places": "15",
+    "places": "15",
 
-    "ImageURL": "https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/SQL-Coding-Class-San-Francisco-1.jpeg"
+    "imageData": "https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/SQL-Coding-Class-San-Francisco-1.jpeg"
 
 },
 {
 
     "id": "4",
 
-    "Subject": "Java",
+    "subject": "Java",
 
-    "Tutor": "Mohit Shankar",
+    "tutor": "Mohit Shankar",
 
-    "Time": "13h",
+    "time": "13h",
 
-    "Location": "Champlain College f249",
+    "location": "Champlain College f249",
 
-    "Email":"Mohit@gmail.com",
+    "email":"Mohit@gmail.com",
 
-    "Places": "10",
+    "places": "10",
 
-    "ImageURL": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg"
+    "imageData": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg"
 
 },
 {
 
     "id": "5",
 
-    "Subject": "HTML",
+    "subject": "HTML",
 
-    "Tutor": "Victor Ssuto",
+    "tutor": "Victor Ssuto",
 
-    "Time": "12h",
+    "time": "12h",
 
-    "Location": "Champlain College f248",
+    "location": "Champlain College f248",
 
-    "Email":"Victor@gmail.com",
+    "email":"Victor@gmail.com",
 
-    "Places": "10",
+    "places": "10",
 
-    "ImageURL": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg"
+    "imageData": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg"
 
 }
 

@@ -4,19 +4,19 @@
 
     "date": "2022-11-26",
 
-    "Time": "15h",
+    "time": "15h",
     
-    "Sport" : "Volleyabll",
+    "sport" : "Volleyabll",  
 
-    "Location": "Champlain College",
+    "location": "Champlain College",
 
-    "Level": "Advanced",
+    "level": "Advanced",
 
-    "Ammount": "14",
+    "ammount": "14",
 
-    "Email": "Volleyball@gmail.com",
+    "email": "Volleyball@gmail.com",
 
-    "ImageURL": "https://cdn.britannica.com/08/190908-131-A6B6D47D/Volleyball-match.jpg"
+    "imageData": "https://cdn.britannica.com/08/190908-131-A6B6D47D/Volleyball-match.jpg"
 },
 
 {
@@ -24,19 +24,19 @@
 
     "date": "2022-11-27",
 
-    "Time": "18h",
+    "time": "18h",
     
-    "Sport" : "Basketball",
+    "sport" : "Basketball",
 
-    "Location": "Vanier College",
+    "location": "Vanier College",
 
-    "Level": "Intermediate",
+    "level": "Intermediate",
 
-    "Ammount": "14",
+    "ammount": "14",
 
-    "Email": "IntermediateBasketball@gmail.com",
+    "email": "IntermediateBasketball@gmail.com",
 
-    "ImageURL": "https://stacknj.com/wp-content/uploads/2021/08/basketball.jpeg"
+    "imageData": "https://stacknj.com/wp-content/uploads/2021/08/basketball.jpeg"
 
 },
 
@@ -45,19 +45,19 @@
 
     "date": "2022-11-28",
 
-    "Time": "18h",
+    "time": "18h",
     
-    "Sport" : "Basketball",
+    "sport" : "Basketball",
 
-    "Location": "Vanier College",
+    "location": "Vanier College",
 
-    "Level": "Advanced",
+    "level": "Advanced",
 
-    "Ammount": "14",
+    "ammount": "14",
 
-    "Email": "Basketball@gmail.com",
+    "email": "Basketball@gmail.com",
 
-    "ImageURL": "https://stacknj.com/wp-content/uploads/2021/08/basketball.jpeg"
+    "imageData": "https://stacknj.com/wp-content/uploads/2021/08/basketball.jpeg"
 
 },
 
@@ -66,19 +66,19 @@
 
     "date": "2022-11-26",
 
-    "Time": "20h",
+    "time": "20h",
     
-    "Sport" : "Soccer",
+    "sport" : "Soccer",
 
-    "Location": "Champlain College Turf",
+    "location": "Champlain College Turf",
 
-    "Level": "Advanced",
+    "level": "Advanced",
 
-    "Ammount": "25",
+    "ammount": "25",
 
-    "Email": "Soccer@gmail.com",
+    "email": "Soccer@gmail.com",
 
-    "ImageURL": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg"
+    "imageData": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg"
 
 },
 
@@ -87,19 +87,19 @@
 
     "date": "2022-12-10",
 
-    "Time": "10h",
+    "time": "10h",
     
-    "Sport" : "Volleyball",
+    "sport" : "Volleyball",
 
-    "Location": "Ahunstic College",
+    "location": "Ahunstic College",
 
-    "Level": "Beginner",
+    "level": "Beginner",
 
-    "Ammount": "14",
+    "ammount": "14",
 
-    "Email": "BeginerVolleyball@gmail.com",
+    "email": "BeginerVolleyball@gmail.com",
 
-    "ImageURL": "https://cdn.britannica.com/08/190908-131-A6B6D47D/Volleyball-match.jpg"
+    "imageData": "https://cdn.britannica.com/08/190908-131-A6B6D47D/Volleyball-match.jpg"
 }
 
 
