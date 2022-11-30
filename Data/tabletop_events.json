@@ -17,7 +17,7 @@
 
     "imageData": "https://whatnerd.com/wp-content/uploads/2019/03/find-local-dungeons-dragons-group-featured-500x250.jpg",
 
-    "Llevel":"Advanced"
+    "level":"Advanced"
 },
 {
     "id": "2",
@@ -56,7 +56,7 @@
 
     "imageData": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2017/02/03/aaf55b8f-db4e-4e69-9664-f9b521842709/pokemon-trading-card-game-sun-and-moon",
 
-    "Level":"Intermediate"
+    "level":"Intermediate"
 },
 {
     "id": "4",
@@ -92,7 +92,10 @@
 
     "email": "TableTopClub@gmail.com",
 
-    "imageData": "https://cdn.thewirecutter.com/wp-content/media/2020/10/smallworldboardgames-2048px-33.jpg"
+    "imageData": "https://cdn.thewirecutter.com/wp-content/media/2020/10/smallworldboardgames-2048px-33.jpg",
+    
+    "level":"Advanced"
+
 
 }
 
